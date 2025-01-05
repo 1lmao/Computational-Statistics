@@ -1,6 +1,6 @@
 # Problem Set
 
-![Example Image](https://github.com/1lmao/Computational-Statistics/raw/main/Problem%20Set%201/ps1.png)
+![Problem Set 1](https://github.com/1lmao/Computational-Statistics/raw/main/Problem%20Set%201/ps1.png)
 
 ## 1. Consider the following probability distribution function:
 

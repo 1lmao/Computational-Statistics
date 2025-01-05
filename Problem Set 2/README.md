@@ -1,5 +1,7 @@
 # Problem Set
 
+![Problem Set 2](https://github.com/1lmao/Computational-Statistics/raw/main/Problem%20Set%202/ps2.png)
+
 ### 1. Consider the following probability distribution function:
 
 \[
